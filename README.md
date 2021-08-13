@@ -1,5 +1,9 @@
 ## GSSoC-21
 My contributions as an active participant of GirlScript Summer Of Code, a 3-month long open source project under GirlScript Foundation India.
+- No.of Projects Worked On: 3
+- No.of Commits Made: 37
+- No.of Issues Created: 31
+- No.of Pull Requests Merged: 36
 
 ## Profile
 ![Profile](https://github.com/Nikitha2309/GSSoC-21/blob/main/assets/Profile_ss.png)
