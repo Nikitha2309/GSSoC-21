@@ -16,7 +16,7 @@ My contributions as an active participant of GirlScript Summer Of Code, a 3-mont
  Find all my valid contributions [here](https://github.com/Nikitha2309/GSSoC-21/blob/main/assets/Profile%20_%20GirlScript%20Foundation%20India.pdf)
 
 
-## Top Contributions
+## Top Contributions in each project
 ### [Lesskollab](https://github.com/Spectrum-CETB/LesKollab)
 - Issue Fixed - [Add feature to find project partners based on user interests](https://github.com/Spectrum-CETB/LesKollab/issues/3)
     - [PR Merged](https://github.com/Spectrum-CETB/LesKollab/pull/41)
