@@ -8,8 +8,8 @@ My contributions as an active participant of GirlScript Summer Of Code, a 3-mont
 ![image](https://user-images.githubusercontent.com/66035321/129389805-c5834b11-93a6-4505-a0cf-619d8094575f.png)
 ![image](https://user-images.githubusercontent.com/66035321/129389862-fdc6bae4-fa6d-47f3-9421-4b298fd2bcec.png)
 
-## All Contributions
-[Profile _ GirlScript Foundation India.pdf](https://github.com/Nikitha2309/GSSoC-21/files/6984057/Profile._.GirlScript.Foundation.India.pdf)
+## All Contributions]
+ Find all my valid contributions [here](https://github.com/Nikitha2309/GSSoC-21/blob/main/assets/Profile%20_%20GirlScript%20Foundation%20India.pdf)
 
 
 ## Top Contributions
