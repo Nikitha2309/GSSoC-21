@@ -26,12 +26,12 @@ My contributions as an active participant of GirlScript Summer Of Code, a 3-mont
     - [PR Merged](https://github.com/Algo-Phantoms/Algo-Tree/pull/1573)
 
 ### [NeoAlgo](https://github.com/TesseractCoding/NeoAlgo)
-- Issue Fixed - [Algorithm for vertical level sum of binary tree](https://github.com/TesseractCoding/NeoAlgo/issues/4374) 
-    - [PR Merged](https://github.com/TesseractCoding/NeoAlgo/pull/4375)
+<!-- - Issue Fixed - [Algorithm for vertical level sum of binary tree](https://github.com/TesseractCoding/NeoAlgo/issues/4374) 
+    - [PR Merged](https://github.com/TesseractCoding/NeoAlgo/pull/4375) -->
 - Issue Fixed - [Algorithm for detection of quasi isomorphic binary trees](https://github.com/TesseractCoding/NeoAlgo/issues/4638) 
     - [PR Merged](https://github.com/TesseractCoding/NeoAlgo/pull/4639)
-- Issue Fixed - [Algorithm to build a balanced BST](https://github.com/TesseractCoding/NeoAlgo/issues/4673)
-    - [PR Merged](https://github.com/TesseractCoding/NeoAlgo/pull/4674)
+<!-- - Issue Fixed - [Algorithm to build a balanced BST](https://github.com/TesseractCoding/NeoAlgo/issues/4673)
+    - [PR Merged](https://github.com/TesseractCoding/NeoAlgo/pull/4674) -->
 - Issue Fixed - [Algorithm for detection of AVL trees](https://github.com/TesseractCoding/NeoAlgo/issues/4704)
     - [PR Merged](https://github.com/TesseractCoding/NeoAlgo/pull/4705)
 
