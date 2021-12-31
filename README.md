@@ -5,6 +5,10 @@ My contributions as an active participant of GirlScript Summer Of Code, a 3-mont
 - No.of Issues Created: 31
 - No.of Pull Requests Merged: 36
 
+## Recognition
+![GSSOC Certificate - Nikitha Reddy  Metta](https://user-images.githubusercontent.com/66035321/147819134-c8ec29b4-057f-4a13-a656-b69aab513565.png)
+
+
 ## Profile
 ![Profile](https://github.com/Nikitha2309/GSSoC-21/blob/main/assets/Profile_ss.png)
 
